@@ -8,19 +8,11 @@ namespace GradeBook
     {
         static void Main(string[] args)
         {
-           var book = new Book();
+           var book = new Book("Scott's Grade Book"); // new ile constructor invoke edilir.
            book.AddGrade(89.1);
-
-           var numbers = new[] { 12.7, 10.3, 6.11 };
-           var grades = new List<double>()  { 12.7, 10.3, 6.11, 4.11 };
-           grades.Add(56.1);
-
-           var result = 0.0;
-           foreach(var number in grades){
-             result += number;
-           }
-           result /= grades.Count;
-           Console.WriteLine($"The average grade is {result:N1}");
+           book.AddGrade(90.5);
+           book.AddGrade(77.5);
+           book.ShowStatistics();
         }
     }
 }
