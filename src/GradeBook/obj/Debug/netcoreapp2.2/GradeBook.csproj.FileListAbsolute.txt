@@ -9,3 +9,15 @@ C:\Users\batuhan\Desktop\repos\dotnet\gradebook\src\GradeBook\obj\Debug\netcorea
 C:\Users\batuhan\Desktop\repos\dotnet\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfo.cs
 C:\Users\batuhan\Desktop\repos\dotnet\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.dll
 C:\Users\batuhan\Desktop\repos\dotnet\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.pdb
+C:\Users\batuh\Desktop\projes\personalRepos\dotnet\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.deps.json
+C:\Users\batuh\Desktop\projes\personalRepos\dotnet\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.runtimeconfig.json
+C:\Users\batuh\Desktop\projes\personalRepos\dotnet\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.runtimeconfig.dev.json
+C:\Users\batuh\Desktop\projes\personalRepos\dotnet\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.dll
+C:\Users\batuh\Desktop\projes\personalRepos\dotnet\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.pdb
+C:\Users\batuh\Desktop\projes\personalRepos\dotnet\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.csprojAssemblyReference.cache
+C:\Users\batuh\Desktop\projes\personalRepos\dotnet\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfoInputs.cache
+C:\Users\batuh\Desktop\projes\personalRepos\dotnet\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfo.cs
+C:\Users\batuh\Desktop\projes\personalRepos\dotnet\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\batuh\Desktop\projes\personalRepos\dotnet\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.dll
+C:\Users\batuh\Desktop\projes\personalRepos\dotnet\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.pdb
+C:\Users\batuh\Desktop\projes\personalRepos\dotnet\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.genruntimeconfig.cache
